@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#115688</color>
+    <color name="colorPrimaryDark">#0E4973</color>
+    <color name="colorPrimaryLight">#236391</color>
+
+    <color name="colorAccent">#115688</color>
+    <color name="colorAccentDark">#0E4973</color>
+    <color name="colorAccentLight">#236391</color>
+
+    <color name="grey_hard">#96989A</color>
+    <color name="grey_medium">#BDBFC1</color>
+    <color name="grey_soft">#F5F5F5</color>
+    <color name="grey_dark">#262626</color>
+    <color name="grey_bg">#E6E6E6</color>
+    <color name="grey_text">#222D31</color>
+    <color name="tab_indicator_color">#FFFFFF</color>
+    <color name="me_chat_bg">#FFE0B2</color>
+    <color name="bg_bottom_menu">#f2f2f2</color>
+
+    <color name="darkOverlay">#80000000</color>
+    <color name="darkOverlaySoft">#40000000</color>
+    <color name="whiteOverlay">#40FFFFFF</color>
+
+    <color name="bt_add_color">#49a6e9</color>
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#8955D1</color>
+    <color name="bg_screen2">#FDA52A</color>
+    <color name="bg_screen3">#07B2DD</color>
+    <color name="bg_screen4">#50A50A</color>
+
+</resources>

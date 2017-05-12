@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- On pressed -->
+    <item android:state_focused="false" android:state_pressed="true">
+        <layer-list>
+            <item>
+                <shape android:shape="oval">
+                    <solid android:color="@color/grey_medium" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+
+    <!-- On unpressed -->
+    <item>
+        <layer-list>
+            <item>
+                <shape android:shape="oval">
+                    <solid android:color="@color/grey_medium" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+
+</selector>
+
+
